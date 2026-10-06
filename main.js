@@ -53,7 +53,7 @@ function navbar(active) {
   return `
   <nav class="navbar">
     <div class="nav-brand">
-      <img src="/prism_logo.png" alt="PRISM" class="nav-logo" />
+      <img src="prism_logo.png" alt="PRISM" class="nav-logo" />
       <a href="#" data-nav="">PRISM</a>
     </div>
     <div class="nav-links">${links}</div>
